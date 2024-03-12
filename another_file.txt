@@ -1,0 +1,2 @@
+Here's my other files, another_file.txt
+If I would like to add something I use the >> (append) instead of > (overwrite)
