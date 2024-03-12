@@ -1,0 +1,1 @@
+fetch just looks what is different in the repository, without changing the local repository. Whereas the pull command changes the local reprository.
